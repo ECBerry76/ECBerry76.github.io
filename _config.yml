@@ -14,3 +14,9 @@ google_analytics:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+navigation:
+  - title: About
+    url: /index.html
+  - title: Blog
+    url: /blog.html
