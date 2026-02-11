@@ -14,6 +14,6 @@ intersection of technical rigor and human-centered design.
 ### Core Strategic Focus:
 * **Structural Resilience:** Architecting robust, data-driven frameworks.
 * **Adaptive Innovation:** Scaling AI and emerging tech through proactive roadmapping.
-* **Human Capital Leadership:** Fostering psychological safety and continuous learning.
+* **Human Capital Leadership:** Fostering psychological safety, continuous learning, and perpetual adaptability by example.
 
 [View my Strategic Workforce Transformation Case Study](/workforce-transformation)
