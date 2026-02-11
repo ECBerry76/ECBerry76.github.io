@@ -12,7 +12,7 @@ intersection of technical rigor and human-centered design. I bridge the gap betw
 ### Core Strategic Focus:
 * **Structural Resilience:** Building robust, data-driven frameworks to mitigate risk and ensure uptime.
 * **Adaptive Innovation:** Scaling AI and emerging tech through proactive, multi-year roadmapping.
-* **Human-Centered Design:** Fostering psychological safety and a and perpetual adaptability to navigate change, by example.
+* **Human-Centered Design:** Fostering psychological safety and perpetual adaptability to navigate change, by example.
 
 ---
 
