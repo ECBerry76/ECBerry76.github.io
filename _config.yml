@@ -18,5 +18,4 @@ highlighter: rouge
 navigation:
   - title: About
     url: /index.html
-  - title: Blog
-    url: /blog.html
+
