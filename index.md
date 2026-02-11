@@ -27,6 +27,6 @@ I recently conducted a research project to assess AI readiness within a global t
 ---
 
 ### Education & Credentials
-* **Master of Science in Strategic Leadership (MSSL)**    NCWU    2025
+* **Master of Science in Strategic Leadership (MSSL)**      NCWU      2025
     * *Specialization: AI Integration & Organizational Resilience*
-* **Bachelor of Science in Computer Information Systems**     NCWU    2020
+* **Bachelor of Science in Computer Information Systems**   NCWU      2020
