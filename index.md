@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# The Architecture of Adaptability
 
 In a landscape defined by rapid technological shifts, resilience is not found in static systems, but in the ability to pivot without breaking. 
 
@@ -17,6 +16,13 @@ intersection of technical rigor and human-centered design. I bridge the gap betw
 
 ---
 
+### Education & Credentials
+* **Master of Science in Strategic Leadership (MSSL)**&nbsp;&nbsp;&nbsp;&nbsp;NCWU&nbsp;&nbsp;&nbsp;&nbsp;2025
+    * *Specialization: AI Integration & Organizational Resilience*
+* **Bachelor of Science in Computer Information Systems**&nbsp;&nbsp;&nbsp;&nbsp;NCWU&nbsp;&nbsp;&nbsp;&nbsp;2020
+
+---
+
 ### Featured Project: AI & The Future of Work
 *A Strategic Analysis of Workforce Transformation*
 
@@ -24,9 +30,3 @@ I recently conducted a research project to assess AI readiness within a global t
 
 [**Explore the Case Study →**](/Workforce Transformation Presentation.pptx)
 
----
-
-### Education & Credentials
-* **Master of Science in Strategic Leadership (MSSL)**&nbsp;&nbsp;&nbsp;&nbsp;NCWU&nbsp;&nbsp;&nbsp;&nbsp;2025
-    * *Specialization: AI Integration & Organizational Resilience*
-* **Bachelor of Science in Computer Information Systems**&nbsp;&nbsp;&nbsp;&nbsp;NCWU&nbsp;&nbsp;&nbsp;&nbsp;2020
