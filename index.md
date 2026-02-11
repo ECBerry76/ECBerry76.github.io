@@ -22,11 +22,11 @@ intersection of technical rigor and human-centered design. I bridge the gap betw
 
 I recently conducted a research project to assess AI readiness within a global telecommunications environment. Using a mixed-method study, I identified critical key strategies and developed a roadmap for proactive skill transformation.
 
-[**Explore the Case Study →**](/workforce-transformation)
+[**Explore the Case Study →**](/Workforce Transformation Presentation.pptx)
 
 ---
 
 ### Education & Credentials
-* **Master of Science in Strategic Leadership (MSSL)** | NCWU 2025
+* **Master of Science in Strategic Leadership (MSSL)**    NCWU    2025
     * *Specialization: AI Integration & Organizational Resilience*
-* **Bachelor of Science** | NCWU 2020
+* **Bachelor of Science in Computer Information Systems**     NCWU    2020
