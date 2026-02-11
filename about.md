@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: # <span style="color: #003366;">About </span>
 permalink: /about/
-order: 1
 ---
 
 Some information about you!
