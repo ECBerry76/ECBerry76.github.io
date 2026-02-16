@@ -4,7 +4,7 @@ title: # <span style="color: #cc0000;">About </span>
 permalink: /about/
 ---
 
-#**Strategic Technology Delivery Leader**
+**Strategic Technology Delivery Leader**
 
 With a 30-year career built on technical rigor and high-stakes operations, I specialize in orchestrating end-to-end technology transformations across global enterprise environments. My approach combines decades of "boots-on-the-ground" engineering with executive-level strategic foresight. I practice human-sourced agility through open-source leadership.
 
